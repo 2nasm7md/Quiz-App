@@ -1,3 +1,5 @@
+npm run server to fetch the quistion from fake api 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
